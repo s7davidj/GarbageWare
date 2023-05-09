@@ -1,0 +1,110 @@
+2022-12-20 19:04:56 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2022-12-20 19:05:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:05:17 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:05:19 *ERROR*      Invalid failure status: 0x0
+2022-12-20 19:05:19 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000135
+2022-12-20 19:05:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:05:39 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:05:39 *ERROR*      Invalid failure status: 0x0
+2022-12-20 19:05:39 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000135
+2022-12-20 19:06:19 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:06:19 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:06:19 *ERROR*      Failed to inject image using manual map, status: 0xC0000034
+2022-12-20 19:06:19 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000034
+2022-12-20 19:06:50 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+2022-12-20 19:07:02 *WARNING*    You must reboot your computer for the changes to take effect
+2022-12-20 19:07:15 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:07:15 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:07:15 *ERROR*      Failed to inject image using manual map, status: 0xC0000034
+2022-12-20 19:07:15 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000034
+2022-12-20 19:07:28 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:07:28 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:07:28 *ERROR*      Failed to inject image using manual map, status: 0xC0000034
+2022-12-20 19:07:28 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000034
+
+2022-12-20 19:08:55 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2022-12-20 19:08:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:08:56 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2022-12-20 19:08:56 *ERROR*      Invalid failure status: 0x0
+2022-12-20 19:08:56 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000135
+
+2022-12-20 19:09:19 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2022-12-20 19:09:26 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-12-20 19:09:26 *CRITICAL*   Injecting image 'E:\source_cheats\Osiris.dll'
+2022-12-20 19:09:26 *ERROR*      Invalid failure status: 0x0
+2022-12-20 19:09:26 *ERROR*      Failed to inject image 'E:\source_cheats\Osiris.dll'.
+Error code 0xC0000135
+
+2023-01-09 00:45:34 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-01-09 00:46:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23096, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:46:11 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:46:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19696, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:46:24 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:46:40 *ERROR*      Failed to inject image using default injection, status: 0xC0000005
+2023-01-09 00:46:40 *ERROR*      Failed to inject image 'C:\Users\David\Desktop\monkey.dll'.
+Error code 0xC0000005
+
+2023-01-09 00:47:14 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-01-09 00:47:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 28616, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:47:25 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:48:37 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9160, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:48:37 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:48:51 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19528, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:48:51 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+
+2023-01-09 00:49:28 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-01-09 00:49:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23996, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:49:36 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:49:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23268, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:49:44 *CRITICAL*   Injecting image 'C:\Users\David\Desktop\monkey.dll'
+2023-01-09 00:52:04 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 26096, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:52:04 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\monkey\Release\monkey.dll'
+2023-01-09 00:53:04 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7696, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-09 00:53:04 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\monkey\Release\monkey.dll'
+2023-01-09 00:53:44 *ERROR*      Invalid failure status: 0x0
+2023-01-09 00:53:44 *ERROR*      Failed to inject image 'C:\Users\David\Documents\Visual Studio 2022\Projects\monkey\Release\monkey.dll'.
+Error code 0xC0000135
+
+2023-01-17 17:58:56 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-01-17 17:58:56 *ERROR*      File "C:\Users\David\Documents\Visual Studio 2022\Projects\monkey\Release\monkey.dll" is not a valid PE image
+2023-01-17 17:59:38 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11700, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-17 17:59:38 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'
+2023-01-17 17:59:38 *ERROR*      Invalid failure status: 0x0
+2023-01-17 17:59:38 *ERROR*      Failed to inject image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'.
+Error code 0xC0000135
+2023-01-17 17:59:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 26292, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-17 17:59:56 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'
+2023-01-17 17:59:56 *ERROR*      Invalid failure status: 0x0
+2023-01-17 17:59:56 *ERROR*      Failed to inject image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'.
+Error code 0xC0000135
+2023-01-17 18:00:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 27960, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-17 18:00:22 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'
+2023-01-17 18:00:22 *ERROR*      Invalid failure status: 0x0
+2023-01-17 18:00:22 *ERROR*      Failed to inject image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'.
+Error code 0xC0000135
+2023-01-17 18:00:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14360, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-01-17 18:00:30 *CRITICAL*   Injecting image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'
+2023-01-17 18:00:30 *ERROR*      Invalid failure status: 0x0
+2023-01-17 18:00:30 *ERROR*      Failed to inject image 'C:\Users\David\Documents\Visual Studio 2022\Projects\Testing\Release\Testing.dll'.
+Error code 0xC0000135
+
+2023-04-06 23:54:54 *NORMAL*     Started on Windows 10.0.0.22624 x64. Driver status: 0xC0000225
+2023-04-06 23:55:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 31076, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-04-06 23:55:11 *CRITICAL*   Injecting image 'E:\source_cheats\airfuck.dll'
+2023-04-06 23:55:11 *ERROR*      Invalid failure status: 0x0
+2023-04-06 23:55:11 *ERROR*      Failed to inject image 'E:\source_cheats\airfuck.dll'.
+Error code 0xC0000135
+2023-04-06 23:55:38 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+
